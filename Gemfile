@@ -5,7 +5,7 @@ ruby '2.4.0'
 gem 'jquery-rails'
 gem 'font-awesome-rails'
 gem 'devise'
-gem 'bootstrap', '~> 4.1.1'
+gem "bootstrap", ">= 4.3.1"
 gem 'kaminari'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'
